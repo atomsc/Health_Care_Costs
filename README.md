@@ -1,6 +1,6 @@
 # Health_Care_Costs
  EDA for various variables contributing to health costs. 
-
+ [Jupyter Notebook Here](https://github.com/atomsc/Health_Care_Costs/blob/main/Health%20Care%20Charges.ipynb)
 <a id = '1'> </a><h2>Description</h2>
 <p>
 A spreadsheet of cleaned data for health care charges for a group of insured persons has been provided. The data scientist has been tasked with determining if a model can be created for predicting the charges a person will incur based on several variables of the person.</p>
